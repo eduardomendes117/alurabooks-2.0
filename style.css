@@ -82,7 +82,7 @@ body {
 }
 
 .livro {
-  width: 200px;
+  width: 180px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -178,7 +178,6 @@ body {
   }
 
   .nav {
-    justify-content: left;
     margin: 1em 0;
     padding: 0;
   }
@@ -193,7 +192,7 @@ body {
   }
 
   .livro {
-    width: 180px;
+    width: 150px;
     gap: 1em;
   }
 
