@@ -82,7 +82,7 @@ body {
 }
 
 .livro {
-  width: 230px;
+  width: 200px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
